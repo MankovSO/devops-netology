@@ -1,7 +1,7 @@
 add new line
 add new line 1
 
-
+задание №3.3 пункт 7 добавил строчку
 
 действует на все каталоги в которых есть terraform
 **/.terraform/*
